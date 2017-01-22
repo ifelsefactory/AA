@@ -1,15 +1,5 @@
 ﻿package  {
 	
-	import flash.display.MovieClip;
-	import flash.ui.Keyboard;
-	import flash.events.KeyboardEvent;
-	import flash.events.MouseEvent;
-	import flash.events.TimerEvent;
-	import cls.world;
-	import cls.cub;
-	import flash.events.Event;
-	import flash.geom.Point;
-	import flash.utils.Timer;
 	
 	import flash.media.Sound;
 	import flash.media.SoundChannel;
